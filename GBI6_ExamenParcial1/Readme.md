@@ -1,4 +1,5 @@
 -Universidad Regional Amazónica IKIAM-
+
 *Datos Personales 
 * Lenin Vásquez 
 * Quinto Semestre 
