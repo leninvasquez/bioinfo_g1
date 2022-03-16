@@ -11,7 +11,7 @@
 
 - head -n1 ../Saavedra2013/n16.txt | tr -d " " | trs -d "\ n" | wc -c
 
-Para este ejercicio se trabajo con el archivo n16 dentro de Saavedra2013
+Para la primera parte del ejercicio se trabajo con el archivo n16 dentro de Saavedra2013
 - cat: sirve para imprimir los arcivos que contiene. Cualquier fila
 - wc -l: cuenta el número de lioneas en un determinado archivo.
 - head: permite vizualizar las primeras 10 filas
